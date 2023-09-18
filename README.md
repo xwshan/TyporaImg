@@ -1,0 +1,2 @@
+# TyporaImg
+Image for Typora
